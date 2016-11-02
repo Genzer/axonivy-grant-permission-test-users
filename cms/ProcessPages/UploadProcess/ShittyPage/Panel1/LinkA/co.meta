@@ -1,0 +1,2 @@
+co: name={LinkA} description={} changed={2015-11-16 07:23:10 GMT} changedby={tphau} visualorder={0} guid={1510F2D0F1DAD0F5} parentguid={} typeguid={E6AFEA1F2184828C} id={} parentid={} typeid={}
+val: guid={1510F2D0F4A5C94A} datatype={} isdefault={true} langid={en} description={} validfrom={2015-11-16 07:23:10 GMT} validto={} changed={2015-11-16 07:23:10 GMT} changedby={tphau} properties={##Mon Nov 16 14:23:10 ICT 2015#r#n.KIND=textlink#r#n.LINK=LinkA#r#n.LREF=<%\=ivy.html.ref("LinkA.ivp")%>#r#n} id={}
